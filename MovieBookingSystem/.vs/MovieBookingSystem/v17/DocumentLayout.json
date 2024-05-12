@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\usermanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\usermanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\service\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\service\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\usermanagment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\usermanagment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\configurations\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\configurations\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\service\\iservice\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\service\\iservice\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\models\\dtos\\registrationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\models\\dtos\\registrationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\models\\dtos\\registerationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\models\\dtos\\registerationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\y5ze\\source\\repos\\MovieBookingSystem\\UserManagment\\Migrations\\20240512173227_Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|c:\\users\\y5ze\\desktop\\backend\\moviebookingsystem\\usermanagment\\migrations\\20240512190153_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DFD828-66B0-4AD4-99BC-C276893AEA10}|UserManagment\\UserManagment.csproj|solutionrelative:usermanagment\\migrations\\20240512190153_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Service\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Service\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Service\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "UserManagment\\Service\\JwtTokenGenerator.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:52:11.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManagment.csproj",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\UserManagment.csproj",
+              "RelativeDocumentMoniker": "UserManagment\\UserManagment.csproj",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\UserManagment.csproj",
+              "RelativeToolTip": "UserManagment\\UserManagment.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T16:51:27.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UserManagment\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:10:41.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Program.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Program.cs",
+              "RelativeToolTip": "UserManagment\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:07:36.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\appsettings.json",
+              "RelativeDocumentMoniker": "UserManagment\\appsettings.json",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\appsettings.json",
+              "RelativeToolTip": "UserManagment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T17:00:49.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserManagment.http",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\UserManagment.http",
+              "RelativeDocumentMoniker": "UserManagment\\UserManagment.http",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\UserManagment.http",
+              "RelativeToolTip": "UserManagment\\UserManagment.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-12T19:04:22.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UserManagment\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:59:27.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Models\\Response.cs",
+              "RelativeToolTip": "UserManagment\\Models\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:11:41.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "UserManagment\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:35:18.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Service\\IService\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Service\\IService\\IJwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Service\\IService\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "UserManagment\\Service\\IService\\IJwtTokenGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:50:22.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "UserManagment\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\WeatherForecast.cs",
+              "RelativeToolTip": "UserManagment\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:49:48.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Service\\AuthService.cs",
+              "RelativeToolTip": "UserManagment\\Service\\AuthService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAASwCkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:27:05.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtConfig.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Configurations\\JwtConfig.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Configurations\\JwtConfig.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Configurations\\JwtConfig.cs",
+              "RelativeToolTip": "UserManagment\\Configurations\\JwtConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:06:35.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Service\\IService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Service\\IService\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Service\\IService\\IAuthService.cs",
+              "RelativeToolTip": "UserManagment\\Service\\IService\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:25:28.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Models\\Dtos\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Models\\Dtos\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Models\\Dtos\\LoginResponseDto.cs",
+              "RelativeToolTip": "UserManagment\\Models\\Dtos\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:13:20.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Models\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Models\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Models\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "UserManagment\\Models\\Dtos\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:14:06.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240512190153_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Migrations\\20240512190153_InitialMigration.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Migrations\\20240512190153_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Migrations\\20240512190153_InitialMigration.cs",
+              "RelativeToolTip": "UserManagment\\Migrations\\20240512190153_InitialMigration.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:01:54.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegistrationResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Models\\Dtos\\RegistrationResponseDto.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Models\\Dtos\\RegistrationResponseDto.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Models\\Dtos\\RegistrationResponseDto.cs",
+              "RelativeToolTip": "UserManagment\\Models\\Dtos\\RegistrationResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:10:24.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Models\\Dtos\\RegisterationRequestDto.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Models\\Dtos\\RegisterationRequestDto.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Models\\Dtos\\RegisterationRequestDto.cs",
+              "RelativeToolTip": "UserManagment\\Models\\Dtos\\RegisterationRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:05:37.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Models\\Dtos\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "UserManagment\\Models\\Dtos\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\Models\\Dtos\\LoginRequestDto.cs",
+              "RelativeToolTip": "UserManagment\\Models\\Dtos\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:12:36.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240512173227_Models.cs",
+              "DocumentMoniker": "C:\\Users\\y5ze\\source\\repos\\MovieBookingSystem\\UserManagment\\Migrations\\20240512173227_Models.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\MovieBookingSystem\\UserManagment\\Migrations\\20240512173227_Models.cs",
+              "ToolTip": "C:\\Users\\y5ze\\source\\repos\\MovieBookingSystem\\UserManagment\\Migrations\\20240512173227_Models.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\MovieBookingSystem\\UserManagment\\Migrations\\20240512173227_Models.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:32:27.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
