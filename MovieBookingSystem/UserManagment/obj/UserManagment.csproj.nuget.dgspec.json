@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\UserManagment.csproj": {}
+    "C:\\Users\\y5ze\\Desktop\\Backend\\UserManagement.Net\\MovieBookingSystem\\UserManagment\\UserManagment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\UserManagment.csproj": {
+    "C:\\Users\\y5ze\\Desktop\\Backend\\UserManagement.Net\\MovieBookingSystem\\UserManagment\\UserManagment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\UserManagment.csproj",
+        "projectUniqueName": "C:\\Users\\y5ze\\Desktop\\Backend\\UserManagement.Net\\MovieBookingSystem\\UserManagment\\UserManagment.csproj",
         "projectName": "UserManagment",
-        "projectPath": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\UserManagment.csproj",
+        "projectPath": "C:\\Users\\y5ze\\Desktop\\Backend\\UserManagement.Net\\MovieBookingSystem\\UserManagment\\UserManagment.csproj",
         "packagesPath": "C:\\Users\\y5ze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\obj\\",
+        "outputPath": "C:\\Users\\y5ze\\Desktop\\Backend\\UserManagement.Net\\MovieBookingSystem\\UserManagment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\y5ze\\AppData\\Roaming\\NuGet\\NuGet.Config",

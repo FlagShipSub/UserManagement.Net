@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1V05peD6KocyQ7gtIyeDKp/AzKRqUX+rm8zIIPUxDAJVXjciL6QNXIekrvxVv77CAIZTcNnpZd0IUW9BfW7ggQ==",
+  "dgSpecHash": "48fTAtJFeehoBmxykYIvKML3ikJL6L/fUbemX/ClhJ6Ywth4uao8xoShntlfn0eFGYedNgqfXMks2/zirJyUSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\y5ze\\Desktop\\Backend\\MovieBookingSystem\\UserManagment\\UserManagment.csproj",
+  "projectFilePath": "C:\\Users\\y5ze\\Desktop\\Backend\\UserManagement.Net\\MovieBookingSystem\\UserManagment\\UserManagment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\y5ze\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\y5ze\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
