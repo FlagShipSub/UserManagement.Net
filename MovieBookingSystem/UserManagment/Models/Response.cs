@@ -2,7 +2,7 @@
 {
     public class Response<T>
     {
-        public string Message { get; set; } =  string.Empty;
+        public string Message {     get; set; } =  string.Empty;
         public int Code { get; set; } = 0;
         public T? Data { get; set; }
         public string Error { get; set; } = string.Empty;

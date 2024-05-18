@@ -16,6 +16,9 @@ namespace UserManagment.Models
         public string Gender { get; set; }
         public bool IsRemoved { get; set; }
 
+        //navigation 
+        public OtpValidation OtpValidation { get; set; }
+
     }
 
     public enum Gender

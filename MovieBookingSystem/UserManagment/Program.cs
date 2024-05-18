@@ -51,7 +51,7 @@ builder.Services.AddSwaggerGen(option =>
 });
 
 });
-builder.Services.AddDbContext<ApplicationDbContext>(x => x.UseSqlServer(builder.Configuration.GetConnectionString("Myconn")));
+builder.Services.AddDbContext<ApplicationDbContext>(x => x.UseSqlServer(builder.Configuration.GetConnectionString("AzureDbConnection")));
 
 var section = builder.Configuration.GetSection("JwtConfig");
 var secret = section.GetValue<string>("Secret");
@@ -86,6 +86,14 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+}else
+{
+    app.UseSwagger();
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/swagger/v1/swagger.json", "UserManagement");
+        options.RoutePrefix = string.Empty;
+    });
 }
 
 app.UseCors("default");

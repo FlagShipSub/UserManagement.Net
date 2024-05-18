@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using System;
 using UserManagment.Data;
 using UserManagment.Models;
 using UserManagment.Models.Dtos;
@@ -25,6 +27,39 @@ namespace UserManagment.Service
             _roleManager = roleManager;
             _jwtTokenGenerator = jwtTokenGenerator;
         }
+
+        public async Task<Response<string>> GenerateOtp(VerificationRequest requestDto)
+        {
+            var user = await _db.ApplicationUsers.FirstOrDefaultAsync(u=>u.Email.ToUpper() == requestDto.Email.ToUpper() || u.UserName.ToUpper() == requestDto.UserName);
+           if (user != null) {
+                user.EmailConfirmed = true;
+               var otp = new Random().Next(100000, 1000000);
+                //Adding into otp validation table
+
+                var otpDetails = new OtpValidation()
+                {
+                    Id = user.Id,
+                    CreatedDateTime = DateTime.Now,
+                    Otp = otp.ToString(),
+                    TrailCout = "3",
+                    UpdatedDateTime = DateTime.Today,
+
+                };
+                _db.ApplicationUsers.Update(user);
+                _db.OtpValidations.Add(otpDetails);
+                _db.SaveChanges();
+                return new Response<string>("Successful", StatusCodes.Status200OK, "Opt sent Succefully", "");
+            }
+
+            return new Response<string>("UnSuccessful", StatusCodes.Status404NotFound, "", "Opt failed to send");
+        }
+
+        public async Task<Response<object>> GetAllUsers()
+        {
+            var user = await _db.ApplicationUsers.ToListAsync();
+            return new Response<object>("Successful", StatusCodes.Status200OK, user, "");
+        }
+
         public async Task<Response<LoginResponseDto>> Login(LoginRequestDto requestDto)
         {
             var user = _db.ApplicationUsers.FirstOrDefault(u=>u.UserName.ToLower()== requestDto.UserName.ToLower());

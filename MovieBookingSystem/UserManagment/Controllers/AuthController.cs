@@ -38,13 +38,19 @@ namespace UserManagment.Controllers
             return Ok(response);
 
         }
-        [Authorize]
-        [HttpGet("user")]
+        [HttpPost("verify/email")]
 
-        public async Task<IActionResult> GetUser()
+        public async Task<IActionResult> ResetPassword(VerificationRequest verificationRequest)
         {
-            return Ok("hello");
+            var response = await _authService.GenerateOtp(verificationRequest);
+            return Ok(response);
 
+        }
+        [HttpGet("Users")]
+        public async Task<IActionResult> GetAllUsers()
+        {
+            var response = await _authService.GetAllUsers();
+            return Ok(response);
         }
     }
 }

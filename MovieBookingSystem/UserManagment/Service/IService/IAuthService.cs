@@ -8,5 +8,8 @@ namespace UserManagment.Service.IService
         Task<Response<object>> Register(RegisterationRequestDto requestDto);
 
         Task<Response<LoginResponseDto>> Login(LoginRequestDto requestDto);
+        Task<Response<string>> GenerateOtp(VerificationRequest requestDto);
+
+        Task<Response<object>> GetAllUsers();
     }
 }
