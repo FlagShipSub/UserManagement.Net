@@ -46,8 +46,13 @@
           "Port": 7000
         }
       ],
-      "DangerousAcceptAnyServerCertificateValidator": true,
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": [],
+        "RequireHttpsMetadata": false // Set to true if using HTTPS
+      },
       "UpstreamHttpMethod": [ "GET" ]
+
     }
   ],
 
