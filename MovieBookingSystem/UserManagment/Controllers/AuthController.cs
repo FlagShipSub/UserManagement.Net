@@ -46,6 +46,7 @@ namespace UserManagment.Controllers
             return Ok(response);
 
         }
+        [Authorize]
         [HttpGet("Users")]
         public async Task<IActionResult> GetAllUsers()
         
