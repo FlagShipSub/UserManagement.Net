@@ -51,6 +51,7 @@ builder.Services.AddSwaggerGen(option =>
 });
 
 });
+
 builder.Services.AddDbContext<ApplicationDbContext>(x => x.UseSqlServer(builder.Configuration.GetConnectionString("AzureDbConnection")));
 
 var section = builder.Configuration.GetSection("JwtConfig");

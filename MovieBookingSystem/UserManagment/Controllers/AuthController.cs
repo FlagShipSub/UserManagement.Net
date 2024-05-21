@@ -38,7 +38,7 @@ namespace UserManagment.Controllers
             return Ok(response);
 
         }
-        [HttpPost("verify/email")]
+        [HttpPost("generateotp/email")]
 
         public async Task<IActionResult> ResetPassword(VerificationRequest verificationRequest)
         {
