@@ -1,0 +1,58 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/Auth/register",
+      "UpstreamPathTemplate": "/auth/register",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7000
+        }
+      ],
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Auth/login",
+      "UpstreamPathTemplate": "/auth/login",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7000
+        }
+      ],
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Auth/generateotp/email",
+      "UpstreamPathTemplate": "/auth/generateotp/email",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7000
+        }
+      ],
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Auth/Users",
+      "UpstreamPathTemplate": "/Users",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7000
+        }
+      ],
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "UpstreamHttpMethod": [ "GET" ]
+    }
+  ],
+
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:8000"
+  }
+
+}
