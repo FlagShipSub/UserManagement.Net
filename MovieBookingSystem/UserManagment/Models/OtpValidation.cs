@@ -20,7 +20,7 @@ namespace UserManagment.Models
         public DateTime ExpiryDateTime { get; set; } = DateTime.Now.AddMinutes(30);
 
 
-        public string TrailCout { get; set; }
+        public int TrailCout { get; set; } = 3;
 
 
         //navigation 
@@ -29,5 +29,18 @@ namespace UserManagment.Models
 
         public ApplicationUser ApplicationUser { get; set; }
 
+        public OtpValidation(string otp, DateTime createdDateTime, DateTime updatedDateTime, DateTime expiryDateTime, int trailCout , string id)
+        {
+            Otp = otp;
+            CreatedDateTime = createdDateTime;
+            UpdatedDateTime = updatedDateTime;
+            ExpiryDateTime = expiryDateTime;
+            TrailCout = trailCout;
+            Id = id;
+        }
+
+        public OtpValidation()
+        {
+        }
     }
 }
